@@ -1,3 +1,4 @@
+This project was created for learning Git.
 # ProShop eCommerce Platform (v2)
 
 > eCommerce platform built with the MERN stack & Redux.
